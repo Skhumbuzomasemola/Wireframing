@@ -55,8 +55,7 @@ Interactive components that support user actions, such as forms, buttons, and se
 
 **Example**: A detailed screen in Figma showing a fully structured layout with placeholder content and interactive annotations.
 
-## Type of Wireframe Used Here
-Figma Wireframe 
+### Types of Wireframes
 
 
 
