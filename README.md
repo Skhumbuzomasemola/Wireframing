@@ -57,7 +57,7 @@ Interactive components that support user actions, such as forms, buttons, and se
 
 ## Type of Wireframe Used Here
 The wireframe used in this repository is a **Low-Fidelity Wireframe**.
-It is intended to illustrate the **basic structure and user flow** of the interface without including final design elements like colors, branding, or exact pixel dimensions. This type of wireframe allows for rapid feedback and iteration before investing time in more detailed design work.
+it appears to be a low-fidelity wireframe transcript or content extraction
 
 
 
