@@ -56,8 +56,7 @@ Interactive components that support user actions, such as forms, buttons, and se
 **Example**: A detailed screen in Figma showing a fully structured layout with placeholder content and interactive annotations.
 
 ## Type of Wireframe Used Here
-The wireframe used in this repository is a **Low-Fidelity Wireframe**.
-it appears to be a low-fidelity wireframe transcript or content extraction
+booking platform
 
 
 
