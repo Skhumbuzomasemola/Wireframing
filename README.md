@@ -44,7 +44,7 @@ Interactive components that support user actions, such as forms, buttons, and se
 
 **Example**: A hand-drawn sketch showing where a login form and header might be placed on a page.
 
----
+
 
 ###  High-Fidelity Wireframes
 
@@ -56,6 +56,45 @@ Interactive components that support user actions, such as forms, buttons, and se
 **Example**: A detailed screen in Figma showing a fully structured layout with placeholder content and interactive annotations.
 
 ### Types of Wireframes
+
+## Popular Wireframing Tools
+
+There are many tools available to help designers create wireframes efficiently, ranging from simple sketching apps to advanced collaborative design platforms. Below are some of the most commonly used tools for wireframing:
+
+###  Common Wireframing Tools
+
+- **Balsamiq**  
+  A drag-and-drop tool that mimics sketch-style wireframes, ideal for quick and rough layouts in the early design stage.
+
+- **Adobe XD**  
+  Offers vector-based design and prototyping, suitable for both wireframes and high-fidelity mockups.
+
+- **Sketch**  
+  A macOS design tool with a clean interface, great for UI design and wireframing when paired with plugins.
+
+- **Axure RP**  
+  A powerful tool for creating wireframes, diagrams, and interactive prototypes, often used in enterprise UX teams.
+
+- **Lucidchart**  
+  Primarily a diagramming tool but also useful for basic wireframe structures and user flows.
+
+---
+
+###  Recommended Tool: Figma
+
+[Figma](https://www.figma.com) is a **cloud-based design tool** that has become a favorite among designers for creating wireframes, UI designs, and interactive prototypes.
+
+#### Why Figma is Great for Wireframing:
+
+  **Collaborative in Real Time**: Multiple team members can design, comment, and update files simultaneously.
+  **Cross-Platform Access**: Works in any browser with no installation required; also has desktop apps.
+  **Component Reusability**: Allows creation of reusable design components and layouts to speed up the wireframing process.
+  **Design + Prototyping in One**: Lets you create both wireframes and clickable prototypes in the same workspace.
+  **Version Control & History**: Every edit is saved, and you can easily revert to previous versions.
+  **Plugin Ecosystem**: Offers a wide range of plugins to enhance productivity, including wireframe kits, icons, and accessibility checkers.
+
+Figma is ideal for both **low-fidelity wireframes** and **high-fidelity designs**, making it a versatile choice for all stages of the design process.
+
 
 
 
