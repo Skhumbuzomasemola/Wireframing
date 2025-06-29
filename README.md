@@ -35,5 +35,29 @@ Specific areas where text, images, videos, and other content will appear on the 
 Interactive components that support user actions, such as forms, buttons, and search bars.
 **Example**: A "Book Now" button below a product description allows users to take immediate action, improving conversion rates.
 
+###  Low-Fidelity Wireframes
+
+- **Definition**: Simple, rough sketches or basic digital layouts that represent the general structure of a page.
+- **Purpose**: Focus on layout, flow, and functionality rather than visual design.
+- **Tools**: Pen and paper, Balsamiq, whiteboards.
+- **When Used**: In early stages of the design process to brainstorm and explore ideas quickly.
+
+**Example**: A hand-drawn sketch showing where a login form and header might be placed on a page.
+
+---
+
+###  High-Fidelity Wireframes
+
+- **Definition**: Detailed and polished wireframes that closely resemble the final design, including spacing, alignment, and often some design elements.
+- **Purpose**: Communicate finer details of interaction and UI behavior.
+- **Tools**: Figma, Adobe XD, Sketch.
+- **When Used**: In later stages of design, typically before moving into prototyping or development.
+
+**Example**: A detailed screen in Figma showing a fully structured layout with placeholder content and interactive annotations.
+
+## Type of Wireframe Used Here
+The wireframe used in this repository is a **Low-Fidelity Wireframe**.
+
+
 
 
